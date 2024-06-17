@@ -1,0 +1,5 @@
+# 프로그램 요구사항
+# 명령어 pip install -r requirements.txt
+
+solana
+boto3
